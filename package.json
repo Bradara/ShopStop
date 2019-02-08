@@ -1,0 +1,26 @@
+{
+  "name": "expressjslab",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "ANN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "busboy": "0.3.0",
+    "cookie-parser": "1.4.3",
+    "crypto": "1.0.1",
+    "express": "4.16.4",
+    "express-session": "1.15.6",
+    "gulp": "4.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-rename": "1.4.0",
+    "mime-types": "2.1.21",
+    "mongoose": "5.4.5",
+    "multiparty": "4.2.1",
+    "passport": "0.4.0",
+    "passport-local": "1.0.0",
+    "pug": "2.0.3",
+    "shortid": "2.2.14"
+  }
+}
